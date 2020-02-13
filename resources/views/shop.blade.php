@@ -14,7 +14,7 @@
                     <div class="col-xs-6 col-sm-4 col-md-4 ">
                         <div class="mycart_box">
                             {{$stock->name}} <br>
-                            {{$stock->fee}}円<br>
+                            {{number_format($stock->fee)}}円<br>
                             <img src="/image/{{$stock->imgpath}}" alt="" class="incart" >
                             <br>
                             {{$stock->detail}} <br>
