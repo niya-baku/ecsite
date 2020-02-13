@@ -9,7 +9,8 @@
     <li>購入時メール送付機能(Mailtrap使用)</li>
 </ul>
 
-<ul>使用ツール</ul>
+<h2>使用ツール</h2>
+<ul></ul>
     <li>PHP 7.3</li>
     <li>Laravel Framework 6.14.0</li>
     <li>MySQL5.7</li>
